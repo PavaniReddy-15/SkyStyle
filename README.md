@@ -4,12 +4,6 @@ SkyStyle is a responsive weather-based outfit suggestion web app. It fetches liv
 
 ---
 
-## 🚀 Live Project
-
-🔗 [SkyStyle GitHub Pages Link](https://PavaniReddy-15.github.io/SkyStyle/)
-
----
-
 ## ✨ Features
 
 - 🔍 Get real-time weather updates
