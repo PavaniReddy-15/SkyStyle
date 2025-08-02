@@ -36,8 +36,6 @@ SkyStyle/
 ├── index.html
 ├── style.css
 ├── script.js
-└── assets/
-└── (optional images/icons)
 
 
 ---
